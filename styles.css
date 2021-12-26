@@ -72,12 +72,12 @@ main {
     transform: translate(-50%,-50%);
 }
 
-.kontainer h1 {
+.kontainer h2 {
     color: var(--white);
     margin: 1rem 0.5rem 0.5rem;
 }
 
-.kontainer h1:hover {
+.kontainer h2:hover {
     color: var(--cyan);
     cursor: pointer;
 }
